@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Construindo o projeto............'
+                echo 'jenkins thiago .'
             }
         }
         stage('Test') {
